@@ -1,3 +1,3 @@
-module github.com/DowneyL/testmod
+module github.com/DowneyL/testmod/v2
 
 go 1.14
